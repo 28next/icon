@@ -9,4 +9,5 @@
 * `.lg_i` - instagram
 * `.lg_m` - at
 * `.lg_p` - phone
+* `.gT  `   - go top
 
