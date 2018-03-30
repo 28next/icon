@@ -3,11 +3,10 @@
 ## my social icons
 
 
-* `.lg_y` - youtube
-* `.lg_f` - facebook
-* `.lg_v` - vk
-* `.lg_i` - instagram
-* `.lg_m` - at
-* `.lg_p` - phone
-* `.gT  `   - go top
-
+* `.i-y` - youtube
+* `.i-f` - facebook
+* `.i-v` - vk
+* `.i-i` - instagram
+* `.i-m` - mail
+* `.i-p` - phone
+* `.goT`   - go top
